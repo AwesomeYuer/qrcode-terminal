@@ -1,5 +1,5 @@
 var qrcode = require('../lib/main'),
-    url = 'https://google.com/';
+    url = 'https://baidu.com/';
 
 qrcode.generate(url, { small: true }, function (qr) {
     console.log(qr);
