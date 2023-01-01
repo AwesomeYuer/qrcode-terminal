@@ -1,3 +1,15 @@
+# Dev Env
+```shell
+# unsupport chinese
+
+node .\example\basic.js 
+
+node .\example\callback.js
+
+node .\example\small-qrcode.js
+```
+
+
 # QRCode Terminal Edition [![Build Status][travis-ci-img]][travis-ci-url]
 
 > Going where no QRCode has gone before.
